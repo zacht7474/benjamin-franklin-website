@@ -51,7 +51,11 @@ p {
 figcaption {
 
   margin-bottom: 50px;
-  margine:15px;
+}
+
+.image-container {
+  text-align: center; 
+  max-width: 100%;
 }
 
 h4 {
